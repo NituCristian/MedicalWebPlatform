@@ -1,3 +1,9 @@
 [submodule "ds2020_30241_nitu_cristian_1_backend"]
 	path = ds2020_30241_nitu_cristian_1_backend
 	url = https://gitlab.com/ds2020_30241_nitu_cristian_assignment_1/ds2020_30241_nitu_cristian_1_backend
+[submodule "ds2020_30241_nitu_cristian_1_frontend"]
+	path = ds2020_30241_nitu_cristian_1_frontend
+	url = https://gitlab.com/ds2020_30241_nitu_cristian_assignment_1/ds2020_30241_nitu_cristian_1_frontend
+[submodule "ds2020_30241_nitu_cristian_2_producer"]
+	path = ds2020_30241_nitu_cristian_2_producer
+	url = https://gitlab.com/ds2020_30241_nitu_cristian_assignment_2/ds2020_30241_nitu_cristian_2_producer
